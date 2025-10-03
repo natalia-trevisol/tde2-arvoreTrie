@@ -149,7 +149,7 @@ public class ArvoreTrie {
         // chama auxiliar para listar todas as palavras a partir desse ponto
         listarSugestoes(no, prefixo);
     }
-//
+
     private void listarSugestoes(NoTrie no, String prefixo) {
         if (no.fimPalavra) {
             System.out.println(prefixo);
