@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         ArvoreTrie trie = new ArvoreTrie();
 
-        // Inserindo palavras.
+        // Inserindo palavras
         trie.inserir("carro");
         trie.inserir("casa");
         trie.inserir("cachorro");
