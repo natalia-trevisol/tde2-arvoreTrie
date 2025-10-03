@@ -4,12 +4,12 @@
 Natália Moritani Trevisol
 
 ## Instituição
-Pontifícia Universidade Católica do Paraná (PUCPR)
-Disciplina: Resolução de Problemas Estruturados em Computação
-Turma: B (manhã)
+- Pontifícia Universidade Católica do Paraná (PUCPR)
+- Disciplina: Resolução de Problemas Estruturados em Computação
+- Turma: B (manhã)
 
 ## Descrição
-Este projeto implementa uma **Árvore Trie (Prefix Tree)** em Java, com os métodos para inserir, buscar, remover palavras e sugerir palavras a partir de um prefixo.  
+Este projeto (TDE 2) implementa uma **Árvore Trie (Prefix Tree)** em Java, com os métodos para inserir, buscar, remover palavras e sugerir palavras a partir de um prefixo.  
 É um exemplo prático de estrutura de dados para manipulação de strings de forma eficiente.
 
 ---
